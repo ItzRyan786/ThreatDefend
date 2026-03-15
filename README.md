@@ -74,11 +74,7 @@ echo "VT_API_KEY=your_api_key_here" > .env
 uvicorn main:app --reload
 ```
 
-### 2. Install the Chrome Extension
-1. Open Google Chrome and navigate to chrome://extensions/.
-2. Toggle Developer mode on in the top right corner.
-3. Click Load unpacked.
-4. Select the chrome-extension folder located inside the cloned repository.
+
 
 <div align="center">
   <img src="assets/advanced_features_test.webp" alt="Extension in Action">
