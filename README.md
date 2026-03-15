@@ -97,7 +97,7 @@ The extension injects a secure, isolated UI directly into the webpage to provide
 
 ### Targeted Link Query
 Manually input suspect text or URLs into the forensic node's popup interface to receive immediate, categorized threat intel.
-<img src="assets/link_query_ui.png" width="100%" alt="Link Query UI">
+
 
 ---
 
