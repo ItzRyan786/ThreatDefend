@@ -50,29 +50,7 @@ ThreatDefend AI is a lightweight, AI-driven forensic node designed to protect us
 
 ---
 
-## Installation and Setup
 
-### 1. Start the Backend Server
-You must run the local Python server for the extension to analyze data.
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/threatdefend-ai.git
-cd threatdefend-ai
-
-# Create a virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate  # Or venv\Scripts\activate on Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Create a .env file for your VirusTotal API key (Optional but recommended)
-echo "VT_API_KEY=your_api_key_here" > .env
-
-# Run the FastAPI server
-uvicorn main:app --reload
-```
 
 
 
